@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../venv"
+		},
+		{
+			"path": "../../../projects"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../hwvenv1"
+		}
+	],
+	"settings": {}
+}
